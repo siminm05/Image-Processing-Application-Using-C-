@@ -11,14 +11,11 @@ resize images, and compute LBP features.
 - Save processed image
 
 # How to Run
+A sample PGM file (`test.pgm`) is included for testing the program.
 1. Compile the code:
    gcc main.c -o program
 2. Run:
    ./program
 
-# Sample Input
-A sample PGM file (`test.pgm`) is included for testing the program.
-# You can run the program using:
-./program
-and enter:
-test.pgm
+
+
